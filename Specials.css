@@ -1,0 +1,257 @@
+
+body, html{
+    background-image:url(BackG.jpg);
+    height: 100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:fixed;
+}
+
+#boc{   
+	display: block;
+    margin: auto;
+    width: 90%;
+
+}
+
+hr.style2 {
+	border-top: 3px double #8c8b8b;
+	width: 95%;
+	background-color: #4d7531;	
+	
+}
+
+table.POGI{
+	border: None;
+	padding:1;
+	text-align:center;
+	 margin: auto;
+    width: 90%;
+ 
+	
+	
+	
+}
+font.Fclass1{
+	font-family: "Times New Roman", Times, serif;
+	font-size:20px;
+	font-style: italic;
+	color: #003a00;
+}	
+
+table.center {
+	border: none;
+    width:90%; 
+    margin-left:5%; 
+    margin-right:10%;
+	height: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:scroll;
+}
+ 
+ img.owner{
+	height: 425px;
+	width: 425px;
+	 
+	 
+	 
+ }
+#imgLogo{ 
+	position:float;
+	top:150px;
+	left:100px;
+	float:top;
+}
+  
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 6px;
+    left: 80px;
+	font-family:Georgia;
+	font-size: 25;
+}
+
+
+
+p.food{
+	text-align:justify;
+	Font-size: 20px;
+	color: #black;	
+	text-indent: 50px;
+	padding: 15px;	
+}
+h1{
+	text-align: left;
+	font-family: "Times New Roman", Georgia, Serif;
+	Font-size: 30px;
+	font-style: italic;
+	color: #0c3e0c;	
+}
+#for{
+	text-align: center;
+	font-family: "Times New Roman", Georgia, Serif;
+	Font-size: 30px;
+	font-style: italic;
+	color: #0c3e0c;	
+}
+p.first {
+	text-align:justify;
+	Font-size: 19px;
+	color: #010916;	
+	text-indent: 50px;
+	padding: 15px;	
+}
+img.support{
+	height: 375px;
+	width: 450px;
+	position:justify;		
+}	
+p.loc{
+	height: 500px;
+	width: 450px;
+	text-align:justify;
+	Font-size: 20px;
+	color: #black;	
+	text-indent: 275px;
+	padding: 15px;
+}	
+table.footer { 
+	margin:3%;
+    margin-left:5%; 
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:scroll;	
+	text-align:left;	
+	display: table;
+    width: 1150px;
+    margin-bottom: 20px;
+    color: #010916;	
+	
+
+}
+img.kid{
+	height: 500px;
+	width: 410px;
+	
+}
+
+img.mayor{
+	height: 500px;
+	width: 650px;
+	
+}
+
+img.fivefrappes{
+	height: 350px;
+	width: 550px;
+	
+	
+}
+
+img.friends{
+	height: 350px;
+	width: 450px;
+	
+}
+	
+p.feed{
+	text-align:justify;
+	Font-size: 20px;
+	color: #black;	
+	text-indent: 50px;
+	padding: 15px;	
+	
+}	
+
+body, html{
+    background-image:url(2ndbg.jpg);
+    height: 100%;
+	background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:fixed;
+}
+
+#boc{   
+	display: block;
+    margin: auto;
+    width: 90%;
+}
+
+}
+hr.style2 {
+	border-top: 3px double #8c8b8b;
+	width: 95%;
+	background-color: #4d7531;	
+}
+p.ciao{
+	text-align:justify;
+	Font-size: 20px;
+	color: #010916;	
+	text-indent: 50px;
+	padding: 15px;	
+	font-family: Didot, serif;
+}
+
+table.ciao {
+	border: 1 solid black;
+    width:90%; 
+    margin-left:5%; 
+    margin-right:10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:scroll;	
+	text-align:center;	
+}
+
+table.maspogi{
+	border: 1 solid black;
+    width:90%; 
+    margin-left:5%; 
+    margin-right:10%;
+    background-repeat: no-repeat;
+    background-size: cover;
+	background-attachment:scroll;	
+	text-align:center;	
+}
+
+figure.all {
+    vertical-align: top;
+    display: inline-block;
+    width: 300px;
+	margin-left:53px;
+}
+img.food {
+    width: 300px;
+    height: 227px;
+}
+figcaption.caption {
+	font-family:"Courier New", monospace, Times, serif;
+	font-size: 16px;
+	font-style: italic;
+	 border: none;
+    text-align: center;
+	color: #091323;
+
+audio { 
+   display:none;
+}
+
+hr.footer{
+		width: 95%;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+	
+}
